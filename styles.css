@@ -11,13 +11,13 @@ body, header, #elenco-difficolta{
 
 #elenco-difficolta{
     width: clamp(100px,50vw,500px);
+    aspect-ratio: 2/3;
     max-height: 1000px;
 }
 
 a{
     text-decoration: none;
     color: white;
-    font-size: 25px;
 }
 
 body {
